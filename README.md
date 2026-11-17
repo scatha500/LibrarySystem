@@ -16,8 +16,9 @@ How to Run This Project Locally
 1. Database Setup
 Open XAMPP and start Apache and MySQL.
 Go to http://localhost/phpmyadmin.
-Create a database named library_db.
-Run the SQL queries to create the books, users, and transactions tables.
+Click on the Import tab.
+Select the database.sql file located inside the backend folder.
+Click Go to automatically create the library_db database and all tables.
 
 2. Backend Setup
 Open a terminal and navigate to the backend folder.
